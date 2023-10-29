@@ -40,7 +40,7 @@ contract MyTokenContract {
 }
 ```
 
-Make sure the "Compiler" option is set to "0.8.18" (or another compatible version) under the "Solidity Compiler" tab in the left-hand sidebar in order to build the code. Select "Compile Test.sol" from the menu.
+Make sure the "Compiler" option is set to "0.8.18" (or another compatible version) under the "Solidity Compiler" tab in the left-hand sidebar in order to build the code. Select "Compile metacrafter.sol" from the menu.
 
 
 
@@ -51,7 +51,7 @@ Once the contract has been compiled, you may deploy it by selecting the "MyToken
 After the contract is deployed, you can use the Remix interface to call the "acquireTokens" and "removeTokens" functions to communicate with it. Ensure that the compiler option is configured to 0.8.18 in order to prevent version dependency issues.
 
 # Writer:
-[Piyush]
+Piyush
 
 # Permission:
 
